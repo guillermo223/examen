@@ -1,0 +1,6 @@
+Las pruebas que ha de pasar nuestra funcionalidad son:
+
+-Añadir números naturales.
+-La suma de 0 y 0 debe ser cero.
+-La suma de 0 y 6 debe ser 6.
+-La suma de 3 y 4 debe ser 7.
