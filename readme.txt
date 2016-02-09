@@ -33,10 +33,12 @@ Prioridad	nº Historia		Estimación	Hecho		              Tareas
 							Romanos			
 							adecuadamente		prueba,codigo
 
+Atención: Evaluando el proyecto introducimos Pruebaresta dentro de la historia resta, por lo tanto
+en el segundo sprint sólo habrá la historia de usuario resta.
 
 suma y multiplicación en el primer sprint
 
- prueba resta y resta en el segundo sprint.
+resta en el segundo sprint.
 
 números romanos en el tercer sprint.
 
