@@ -1,0 +1,6 @@
+Las pruebas TDD que han de superar para superar la funcionalidad en números romanos son:
+
+- el número arábigo 5 corresponde al número romano V.
+- el número arábigo 10 corresponde al número romano X.
+- el número arábigo 50 corresponde al número romano L.
+- el número arábigo 80 corresponde al número XXC.
